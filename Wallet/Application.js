@@ -127,10 +127,10 @@ const wallet = {
   console.log(`
   These are the available commands :
       unlock
-      addcard
-      addidcard
-      addmoney
-      addcoins
+      addcard (cardname)
+      addidcard (idcardname)
+      addmoney (amount)
+      addcoins (amount)
       lock
       status
       exit
